@@ -1,0 +1,8 @@
+C:\Users\sornr\Desktop\vegas2movieStudio\vegas2movieStudio\bin\Debug\vegas2movieStudio.exe.config
+C:\Users\sornr\Desktop\vegas2movieStudio\vegas2movieStudio\bin\Debug\vegas2movieStudio.exe
+C:\Users\sornr\Desktop\vegas2movieStudio\vegas2movieStudio\bin\Debug\vegas2movieStudio.pdb
+C:\Users\sornr\Desktop\vegas2movieStudio\vegas2movieStudio\obj\Debug\vegas2movieStudio.Properties.Resources.resources
+C:\Users\sornr\Desktop\vegas2movieStudio\vegas2movieStudio\obj\Debug\vegas2movieStudio.csproj.GenerateResource.Cache
+C:\Users\sornr\Desktop\vegas2movieStudio\vegas2movieStudio\obj\Debug\vegas2movieStudio.exe
+C:\Users\sornr\Desktop\vegas2movieStudio\vegas2movieStudio\obj\Debug\vegas2movieStudio.pdb
+C:\Users\sornr\Desktop\vegas2movieStudio\vegas2movieStudio\obj\Debug\vegas2movieStudio.main.resources
